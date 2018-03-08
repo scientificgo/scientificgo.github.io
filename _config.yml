@@ -1,0 +1,15 @@
+title: ScientificGo
+description: Scientific Computing Packages for Go 
+url: scientificgo.org
+
+email: jack.parkinson@scientificgo.org
+github_username: scientificgo
+github:
+  is_project_page: false
+
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-cayman
+google_analytics: UA-116821320-1
+
