@@ -1,4 +1,20 @@
+title: ScientificGo
+email: jack.parkinson@scientificgo.com
+
+description: >-
+  ScientificGo is the provider of SciGo, which is aiming to become the de facto scientific library
+  for the Go language.
+  
+baseurl: "/"
+
+url: "http://scientificgo.org"
+
+twitter_username: scientificgo
+
+github_username:  scientificgo
+
 theme: jekyll-theme-cayman
 
 plugins:
   - jekyll-sitemap
+  - jekyll-feed
