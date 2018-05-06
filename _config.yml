@@ -5,7 +5,7 @@ description: >-
   Scientific Computing Packages for Go 
 
 baseurl: "" 
-url: "http://scientificgo.org" 
+url: "https://scientificgo.org" 
 
 github_username:  scientificgo
 
