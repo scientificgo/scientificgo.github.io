@@ -2,22 +2,15 @@
 layout: default
 ---
 
-[fft](fft)
+**ScientificGo** is a collection of [Go](https://www.golang.org) packages for scientific computing. Designed for maximal portability and high-performance, ScientificGo packages are pure-Go; there are no hidden bindings to C, no architecture-dependent assembly implementations and no `Makefile` build processes.
 
-# About
+# Installation
 
-**ScientificGo** is a collection of [Go](https://www.golang.org) packages for scientific computing
-designed for maximal portability and usability. Go naturally lends itself to these 
-properties and that is why all ScientificGo packages are *pure* Go. With no C bindings, no assembly
-and no Makefiles, ScientificGo packages offer a completely platform-independent setup without
-sacrificing performance.
+You can use `go get` to download and install ScientificGo packages on any platform. It couldn't be simpler. To install the package [`fft`]({{site.url}}), for example:
 
-# Using ScientificGo Packages
-
-Head to [GitHub](https://github.com/{{site.github_username}}) or check out one of the packages
-below for instructions on how to use ScientificGo packages in your programmes.
-* [SciGo]({{site.url}}/scigo) 
-* [GoPlotLib]({{site.url}}/goplotlib) 
+```
+go get github.com/scientificgo.org/fft
+```
 
 <p align="center">
 <img src="gopher.png">
