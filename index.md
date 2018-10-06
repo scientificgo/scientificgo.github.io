@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[fft](fft)
+
 # About
 
 **ScientificGo** is a collection of [Go](https://www.golang.org) packages for scientific computing
