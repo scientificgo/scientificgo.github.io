@@ -6,7 +6,7 @@ layout: default
 
 # Installation
 
-You can use `go get` to download and install ScientificGo packages on any platform. It couldn't be simpler. To install the package [`fft`]({{site.url}}), for example:
+You can use `go get` to download and install ScientificGo packages on any platform. It couldn't be simpler. To install the package [`fft`]({{site.url}}/fft), for example:
 
 ```
 go get github.com/scientificgo.org/fft
