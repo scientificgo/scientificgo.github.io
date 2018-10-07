@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+[about](about)
+
 **ScientificGo** is a collection of [Go](https://www.golang.org) packages for scientific computing.
 Designed for maximal portability and high-performance, ScientificGo packages are written in _pure_ Go;
 there are no hidden bindings to C or Fortran libraries and no platform-dependent assembly implementations
