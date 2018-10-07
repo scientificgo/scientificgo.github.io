@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-[about](about)
+[About](about)
 
 **ScientificGo** is a collection of [Go](https://www.golang.org) packages for scientific computing.
 Designed for maximal portability and high-performance, ScientificGo packages are written in _pure_ Go;
