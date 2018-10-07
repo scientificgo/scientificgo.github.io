@@ -16,7 +16,7 @@ You can use the `go get` command to install ScientificGo packages on any platfor
 
 {% for repository in site.github.public_repositories %}
   {% if repository.name != 'scientificgo.github.io' and repository.description %}
-  * [{{ repository.name }}]({{ repository.name }}.md): {{ repository.description }}
+  * [{{ repository.name }}]({{ repository.name }}): {{ repository.description }}
   {% endif %}
 {% endfor %}
 
