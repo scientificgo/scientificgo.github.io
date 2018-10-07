@@ -59,7 +59,7 @@ func main() {
 		name := repo["name"].(string)
 		if !strings.Contains(wd, name) {
 			path := fmt.Sprintf("https://raw.githubusercontent.com/scientificgo/%v/master/README.md", name)
-			dest := fmt.Sprintf("docs/%v.md", name)
+			dest := fmt.Sprintf("%v.md", name)
 			copyFile(path, dest)
 		}
 	}
