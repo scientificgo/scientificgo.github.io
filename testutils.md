@@ -1,6 +1,6 @@
 ---
 layout: default
-title: utils
+title: testutils
 ---
 
 [![GoDoc](https://godoc.org/github.com/scientificgo/utils?status.svg)](https://godoc.org/github.com/scientificgo/utils)
