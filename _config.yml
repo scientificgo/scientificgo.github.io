@@ -1,7 +1,6 @@
 title: ScientificGo
 description: Scientific Computing Packages for Go 
-url: "scientificgo.org" 
-baseurl: "" 
+url: scientificgo.org
 
 email: jack.parkinson@scientificgo.org
 github_username: scientificgo
