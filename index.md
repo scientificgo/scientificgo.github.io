@@ -19,7 +19,7 @@ go get github.com/scientificgo.org/fft
 
 {% for repository in site.github.public_repositories %}
   {% if repository.name != 'scientificgo.github.io' %}
-  * [{{ repository.name }}]({{ repository.html_url }}): {{ repository.description }}
+  * [{{ repository.name }}]({{ site.url }}/{{ repository.name }}): {{ repository.description }}
   {% endif %}
 {% endfor %}
 
