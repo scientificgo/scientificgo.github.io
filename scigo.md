@@ -5,6 +5,8 @@
 [![Coverage](https://codecov.io/gh/scientificgo/scigo/branch/master/graph/badge.svg)](https://codecov.io/gh/scientificgo/scigo)
 [![Maintainability](https://api.codeclimate.com/v1/badges/0ded3734c48e1ab8e87f/maintainability)](https://codeclimate.com/github/scientificgo/scigo/maintainability)
 
+# Archived - DO NOT USE
+
 # SciGo
 
 A scientific library for the [Go](https://golang.org) language.
